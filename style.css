@@ -1,0 +1,23 @@
+.main{
+background-color: #B2AFCC;
+color:#EBC3CB;
+position: fixed;
+width: 100%;
+box-shadow:1px 1px 38px #EBC3CB;
+}
+
+.note{
+color: #695A5B;
+}
+
+.foot{
+bottom:0;
+position: fixed;
+float: none;
+width: 100%;
+line-height: 95px;
+background-color: rgb(131, 120, 120);
+color: #FADAE2;
+}
+
+
